@@ -1,2 +1,4 @@
 select * from clients 
-limit 10 
+GROUP BY clients DESC
+limit 10
+
